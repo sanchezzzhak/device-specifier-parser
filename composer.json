@@ -1,0 +1,8 @@
+{
+  "name": "piwik/device-specifier-parser",
+  "type": "library",
+  "license": "LGPL-3.0-or-later",
+  "autoload": {
+    "psr-4": { "DeviceSpecifierParser\\": "src\\"}
+  }
+}
